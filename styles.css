@@ -1,5 +1,5 @@
 .holder{
-    display: flexbox;
-	border: 1px solid;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
